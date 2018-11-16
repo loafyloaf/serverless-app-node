@@ -1,6 +1,7 @@
 ![Cloud Functions](https://developer.ibm.com/code/wp-content/uploads/sites/118/2017/10/IBM-CLOUD-FUNCTIONS-35.png)
 
-## serverlessappnode
+# Create and deploy a serverless Node.js application
+
 iOS Project using Javascript Cloud Functions 
 
 [![](https://img.shields.io/badge/ibmcloud-powered-blue.svg)](https://bluemix.net)
