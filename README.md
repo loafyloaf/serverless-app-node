@@ -2,7 +2,7 @@
 
 # Create and deploy a serverless Node.js application
 
-iOS Project using Javascript Cloud Functions 
+This repository has code to create a serverless application using Node.js and IBM Cloud Functions.
 
 [![](https://img.shields.io/badge/ibmcloud-powered-blue.svg)](https://bluemix.net)
 [![Platform](https://img.shields.io/badge/platform-nodejs-lightgrey.svg?style=flat)](https://developer.ibm.com/node/cloud/)
