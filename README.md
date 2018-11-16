@@ -62,12 +62,9 @@ Your application is deployed using the IBM Continuous Delivery pipeline. Your to
 
    Next, run your DEPLOY phase again to complete the deployment.
 
-
 4. Review the actions in the IBM Cloud Console [Cloud Functions](https://console.bluemix.net/openwhisk/actions)
 
 5. Review API for the actions in the IBM Cloud Console [Cloud Functions APIs](https://console.bluemix.net/openwhisk/apimanagement)
-
-
 
 ### Services
 This application is configured to connect with the following services:
