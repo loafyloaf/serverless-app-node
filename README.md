@@ -1,11 +1,9 @@
-![Cloud Functions](https://developer.ibm.com/code/wp-content/uploads/sites/118/2017/10/IBM-CLOUD-FUNCTIONS-35.png)
+[![](https://img.shields.io/badge/ibmcloud-powered-blue.svg)](https://bluemix.net)
+[![Platform](https://img.shields.io/badge/platform-nodejs-lightgrey.svg?style=flat)](https://developer.ibm.com/node/cloud/)
 
 # Create and deploy a serverless Node.js application
 
 This repository has code to create a serverless application using Node.js and IBM Cloud Functions.
-
-[![](https://img.shields.io/badge/ibmcloud-powered-blue.svg)](https://bluemix.net)
-[![Platform](https://img.shields.io/badge/platform-nodejs-lightgrey.svg?style=flat)](https://developer.ibm.com/node/cloud/)
 
 ### Requirements
 - [IBM Cloud CLI](https://console.bluemix.net/docs/cli/reference/bluemix_cli/download_cli.html)
