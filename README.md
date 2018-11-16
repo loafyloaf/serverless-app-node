@@ -7,9 +7,6 @@ This repository has code to create a serverless application using Node.js and IB
 [![](https://img.shields.io/badge/ibmcloud-powered-blue.svg)](https://bluemix.net)
 [![Platform](https://img.shields.io/badge/platform-nodejs-lightgrey.svg?style=flat)](https://developer.ibm.com/node/cloud/)
 
-### Summary
-iOS Project using Javascript Cloud Functions
-
 ### Requirements
 - [IBM Cloud CLI](https://console.bluemix.net/docs/cli/reference/bluemix_cli/download_cli.html)
 
