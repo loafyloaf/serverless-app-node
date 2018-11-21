@@ -107,10 +107,6 @@ Cloudant NoSQL DB provides access to a fully managed NoSQL JSON data layer that'
 
 You can then review the [Actions](https://console.bluemix.net/openwhisk/actions) in the IBM Cloud Console interface, along with your [Cloud Functions APIs](https://console.bluemix.net/openwhisk/apimanagement).
 
-### Cloud Function APIs
-
-#### Cloudant Actions
-
 <table>
   <thead>
       <tr>
